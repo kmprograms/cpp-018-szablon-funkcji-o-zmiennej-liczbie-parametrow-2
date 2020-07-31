@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(cpp_018_szablon_funkcji_o_zmiennej_liczbie_parametrow_2)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(cpp_018_szablon_funkcji_o_zmiennej_liczbie_parametrow_2 main.cpp)
